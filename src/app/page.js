@@ -63,7 +63,7 @@ export default function Home() {
             </div>
             <div className="text flex flex-col justify-start items-start">
               <p className="text-base">Google Devloper Student Club</p>
-              <p className="text-xs">Vishwaniketan's iMEET</p>
+              <p className="text-xs">Vishwaniketan&aposs iMEET</p>
 
             </div>
           </div>
