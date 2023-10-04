@@ -1,1 +1,1 @@
-# vimeetcloudstudyjam
+# Vimeetcloudstudyjam
