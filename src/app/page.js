@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Image from 'next/image'
 import Script from 'next/script';
 import Link from 'next/link'
@@ -63,7 +64,7 @@ export default function Home() {
             </div>
             <div className="text flex flex-col justify-start items-start">
               <p className="text-base">Google Devloper Student Club</p>
-              <p className="text-xs">Vishwaniketan&apos;s iMEET</p>
+              <p className="text-xs">Vishwaniketan's iMEET</p>
 
             </div>
           </div>
