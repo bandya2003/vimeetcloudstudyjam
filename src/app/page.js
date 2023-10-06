@@ -86,7 +86,7 @@ export default function Home() {
     
       <TableIndex />
 
-      <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">Devloped By <a href="https://www.instagram.com/bandya2003/" className="text-orange-400">bandya03</a> </div>
+      <div className="  w-full p-2 text-center bg-gray-900 text-gray-300">Credits @<a href="https://www.instagram.com/bandya2003/" className="text-orange-400">bandya03</a> </div>
     </>
   )
 }
