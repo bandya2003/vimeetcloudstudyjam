@@ -1,17 +1,5 @@
 [
   {
-    "Student Name": "Nilay Patil",
-    "Institution": "Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology - Khalapur",
-    "Enrolment Date & Time": "Tue Sep 26 2023 14:00:13 GMT+0530 (GMT+05:30)",
-    "Enrolment Status": "All Good",
-    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b8798b00-ad7a-4c27-99a5-231042a250fb",
-    "# of Courses Completed": 0,
-    "# of Skill Badges Completed": 0,
-    "# of GenAI Game Completed": 0,
-    "Total Completions of both Pathways": "No",
-    "Redemption Status": "Yes"
-  },
-  {
     "Student Name": "Yashraj Prabhakar Chavan",
     "Institution": "Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology - Khalapur",
     "Enrolment Date & Time": "Tue Sep 26 2023 14:14:45 GMT+0530 (GMT+05:30)",
@@ -41,7 +29,7 @@
     "Enrolment Date & Time": "Tue Sep 26 2023 14:25:06 GMT+0530 (GMT+05:30)",
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/e01a8d55-4c8f-4b0f-a58f-a0197d4e01f8",
-    "# of Courses Completed": 1,
+    "# of Courses Completed": 2,
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
@@ -93,7 +81,7 @@
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 0,
     "Total Completions of both Pathways": "No",
-    "Redemption Status": "No"
+    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Ayush Amol Wadekar",
@@ -132,15 +120,27 @@
     "Redemption Status": "Yes"
   },
   {
+    "Student Name": "Nilay Patil",
+    "Institution": "Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology - Khalapur",
+    "Enrolment Date & Time": "Tue Sep 26 2023 14:00:13 GMT+0530 (GMT+05:30)",
+    "Enrolment Status": "All Good",
+    "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b8798b00-ad7a-4c27-99a5-231042a250fb",
+    "# of Courses Completed": 0,
+    "# of Skill Badges Completed": 0,
+    "# of GenAI Game Completed": 0,
+    "Total Completions of both Pathways": "No",
+    "Redemption Status": "Yes"
+  },
+  {
     "Student Name": "Himanshu Tiwari",
     "Institution": "Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology - Khalapur",
     "Enrolment Date & Time": "Tue Sep 26 2023 15:17:57 GMT+0530 (GMT+05:30)",
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/786bc3ed-77a2-4c8d-99a1-f7becae6919f",
     "# of Courses Completed": 4,
-    "# of Skill Badges Completed": 3,
+    "# of Skill Badges Completed": 4,
     "# of GenAI Game Completed": 1,
-    "Total Completions of both Pathways": "No",
+    "Total Completions of both Pathways": "Yes",
     "Redemption Status": "Yes"
   },
   {
@@ -245,9 +245,9 @@
     "Enrolment Date & Time": "Tue Sep 26 2023 15:32:22 GMT+0530 (GMT+05:30)",
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/1b9555d7-1565-4f82-b803-e7d177f726d3",
-    "# of Courses Completed": 0,
+    "# of Courses Completed": 1,
     "# of Skill Badges Completed": 0,
-    "# of GenAI Game Completed": 0,
+    "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
@@ -353,7 +353,7 @@
     "Enrolment Date & Time": "Tue Sep 26 2023 16:23:56 GMT+0530 (GMT+05:30)",
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/5bcb5a2d-f04b-4578-871b-17bf983610ae",
-    "# of Courses Completed": 1,
+    "# of Courses Completed": 2,
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
@@ -473,7 +473,7 @@
     "Enrolment Date & Time": "Tue Sep 26 2023 19:06:45 GMT+0530 (GMT+05:30)",
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ee56ac87-f375-4cca-a301-8888336da4dc",
-    "# of Courses Completed": 0,
+    "# of Courses Completed": 1,
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 0,
     "Total Completions of both Pathways": "No",
@@ -581,7 +581,7 @@
     "Enrolment Date & Time": "Tue Sep 26 2023 19:26:36 GMT+0530 (GMT+05:30)",
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/bceb82f1-439c-4516-9874-39a39866299d",
-    "# of Courses Completed": 0,
+    "# of Courses Completed": 3,
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
@@ -633,7 +633,7 @@
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 0,
     "Total Completions of both Pathways": "No",
-    "Redemption Status": "No"
+    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Sumit Sunil Kumar",
@@ -729,7 +729,7 @@
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 0,
     "Total Completions of both Pathways": "No",
-    "Redemption Status": "No"
+    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Deepak Prasad",
@@ -763,9 +763,9 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/b9ea8a4c-10ff-403e-83bf-a1376ea88227",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
-    "# of GenAI Game Completed": 0,
+    "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
-    "Redemption Status": "No"
+    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Aniket Keshav Suryawanshi",
@@ -1097,7 +1097,7 @@
     "Enrolment Date & Time": "Tue Sep 26 2023 20:21:49 GMT+0530 (GMT+05:30)",
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/97347f52-031e-4e00-a1c2-20473994e50c",
-    "# of Courses Completed": 1,
+    "# of Courses Completed": 3,
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
@@ -1266,7 +1266,7 @@
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/ce02bdaa-3be0-4853-a8fb-d19fe11e746c",
     "# of Courses Completed": 0,
-    "# of Skill Badges Completed": 0,
+    "# of Skill Badges Completed": 1,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
@@ -1557,7 +1557,7 @@
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 0,
     "Total Completions of both Pathways": "No",
-    "Redemption Status": "No"
+    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Riddhi shinde",
@@ -1581,7 +1581,7 @@
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 0,
     "Total Completions of both Pathways": "No",
-    "Redemption Status": "No"
+    "Redemption Status": "Yes"
   },
   {
     "Student Name": "hitesh mali",
@@ -1713,7 +1713,7 @@
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
-    "Redemption Status": "No"
+    "Redemption Status": "Yes"
   },
   {
     "Student Name": "Pinky Chaurasiya",
@@ -1865,7 +1865,7 @@
     "Enrolment Date & Time": "Thu Sep 28 2023 11:02:04 GMT+0530 (GMT+05:30)",
     "Enrolment Status": "All Good",
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/dd26c6f0-bf96-46ac-b6c8-c2e7da8e9302",
-    "# of Courses Completed": 1,
+    "# of Courses Completed": 2,
     "# of Skill Badges Completed": 0,
     "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
@@ -1879,7 +1879,7 @@
     "Google Cloud Skills Boost Profile URL": "https://www.cloudskillsboost.google/public_profiles/30a91532-d42a-467f-a953-383a2a9575bc",
     "# of Courses Completed": 0,
     "# of Skill Badges Completed": 0,
-    "# of GenAI Game Completed": 0,
+    "# of GenAI Game Completed": 1,
     "Total Completions of both Pathways": "No",
     "Redemption Status": "Yes"
   },
