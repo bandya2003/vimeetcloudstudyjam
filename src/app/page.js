@@ -7,10 +7,8 @@ export default function Home() {
   
   return (
     <>
-      {/* <Script src="https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.12.0/tsparticles.confetti.bundle.min.js" strategy="beforeInteractive"></Script>
-      <Script id="blast_effect">
-        {
-                `const duration = 15 * 350,
+      { <><Script src="https://cdn.jsdelivr.net/npm/tsparticles-confetti@2.12.0/tsparticles.confetti.bundle.min.js" strategy="beforeInteractive"></Script><Script id="blast_effect">
+        {`const duration = 15 * 350,
                 animationEnd = Date.now() + duration,
                 defaults = { startVelocity: 30, spread: 360, ticks: 60, zIndex: 0 };
               
@@ -45,9 +43,8 @@ export default function Home() {
                   })
                 );
               }, 250);
-                `
-        }
-      </Script> */}
+                `}
+      </Script></> }
       <nav className='w-full  shadow-md relative '>
         <div className="bg-gray-900 text-blue-500 w-full m-auto text-center p-2 flex justify-center items-center">
           <div className=""><Image src="/assets/cloudLg.png" alt="me" width="40" height="40" /></div>
